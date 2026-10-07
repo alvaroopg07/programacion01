@@ -2,7 +2,7 @@ package boletin1_1;
 
 import java.util.Scanner;
 
-public class Act8_OperadorAritmetico {
+public class Act8OperadorAritmetico {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -2,7 +2,7 @@ package boletin1_1;
 
 import java.util.Scanner;
 
-public class Act19_OperadorRelacional_Logico_Ternario {
+public class Act19OperadorRelacionalLogicoTernario {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

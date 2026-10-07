@@ -2,7 +2,7 @@ package boletin1_1;
 
 import java.util.Scanner;
 
-public class Act17_Modulo {
+public class Act17Modulo {
 
 	public static void main(String[] args) {
 
