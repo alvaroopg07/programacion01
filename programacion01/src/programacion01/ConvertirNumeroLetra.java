@@ -73,7 +73,7 @@ public class ConvertirNumeroLetra {
                     case 7 -> textoUnidades = "siete";
                     case 8 -> textoUnidades = "ocho";
                     case 9 -> textoUnidades = "nueve";
-                }
+                } 
                 
                 if (unidad == 0) {
                     System.out.println(textoDecenas);
